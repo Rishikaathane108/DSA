@@ -14,9 +14,9 @@ This repository contains implementations of various data structures and algorith
   - [6. Binary Search Tree](#binary-search-tree)
   - [7. Heap](#heap)
   - [8. Hash Table](#hash-table)
-- [Algorithms](#algorithms)
+- [Algorithms](#Algorithms)
   - [1. Searching](#searching)
-  - [2. Sorting](#sorting)
+  - [2. Sorting](#Sorting)
   - [3. Recursion](#recursion)
   - [4. Dynamic Programming](#dynamic-programming)
   - [5. Graph Algorithms](#graph-algorithms)
@@ -77,7 +77,7 @@ Understanding data structures and algorithms is crucial for any programmer or so
 ### 2. Sorting
 
 - Description: Sorting algorithms to arrange elements in a specific order.
-- Implementations: [bubble_sort.cpp](algorithms/sorting/bubble_sort.cpp), [insertion_sort.cpp](algorithms/sorting/insertion_sort.cpp), [merge_sort.cpp](algorithms/sorting/merge_sort.cpp), [quick_sort.cpp](algorithms/sorting/quick_sort.cpp)
+- Implementations: [bubble_sort.cpp](Algorithms/Sorting/1.1-Bubble-sort.cpp), [insertion_sort.cpp](Algorithms/Sorting/2.1-Insertion-sort.cpp), [selection_sort.cpp](Algorithms/Sorting/3.1-Selection-sort.cpp), [quick_sort.cpp](Algorithms/Sorting/4.1-Quick-sort.cpp)
 
 ### 3. Recursion
 
