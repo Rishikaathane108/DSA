@@ -16,7 +16,7 @@ This repository contains implementations of various data structures and algorith
   - [8. Hash Table](#hash-table)
 - [Algorithms](#Algorithms)
   - [1. Searching](#searching)
-  - [2. Sorting](#Sorting)
+  - [2. Sorting](Algorithms/Sorting)
   - [3. Recursion](#recursion)
   - [4. Dynamic Programming](#dynamic-programming)
   - [5. Graph Algorithms](#graph-algorithms)
