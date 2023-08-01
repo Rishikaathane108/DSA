@@ -77,7 +77,7 @@ Understanding data structures and algorithms is crucial for any programmer or so
 ### 2. Sorting
 
 - Description: Sorting algorithms to arrange elements in a specific order.
-- Implementations: [bubble_sort.cpp](Algorithms/Sorting/1.1-Bubble-sort.cpp), [insertion_sort.cpp](Algorithms/Sorting/2.1-Insertion-sort.cpp), [selection_sort.cpp](Algorithms/Sorting/3.1-Selection-sort.cpp), [quick_sort.cpp](Algorithms/Sorting/4.1-Quick-sort.cpp)
+- Implementations: [bubble_sort.cpp](Algorithms/Sorting/1.1_Bubble_sort.cpp), [insertion_sort.cpp](Algorithms/Sorting/2.1_Insertion_sort.cpp), [selection_sort.cpp](Algorithms/Sorting/3.1_Selection_sort.cpp), [quick_sort.cpp](Algorithms/Sorting/4.1_Quick_sort.cpp)
 
 ### 3. Recursion
 
